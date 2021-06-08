@@ -5,3 +5,4 @@ class User < ApplicationRecord
     validates :age, presence: true, numericality:{greater_than_or_equal_to: 13}
     validates :email, presence: true, format:{with: /@/}
 end
+ 
