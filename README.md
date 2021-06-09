@@ -1,11 +1,6 @@
-# RUBY LINTER
-
->  A custom linter for ruby files! is a Ruby code style checker, Apart from reporting problems in your code. In this project, we passed an argument(file path) from the command line to our executable for example
-"ruby ./bin/main.rb bad_code.rb" file and go through the file line by line to detect some predetermined ruby offenses.
-
 ## About
 
-In this project, we build the models for a Reddit look-alike application with all the migrations needed. with three tables, user, comment, and post we got the job done by creating associations between those tables. 
+> In this project, we build the models for a Reddit look-alike application with all the migrations needed. with three tables, user, comment, and post we got the job done by creating associations between those tables. 
 
 - user table store user info.
 - post table store post info, with user & comments id.
